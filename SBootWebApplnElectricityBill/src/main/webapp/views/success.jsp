@@ -1,0 +1,1 @@
+<h1 style="color: green;">Electricity bill added successfully</h1>
